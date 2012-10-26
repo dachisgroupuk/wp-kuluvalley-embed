@@ -1,5 +1,7 @@
 === Kulu Valley Video Embed ===
+
 Author: Ross Tweedie
+
 Author URI: http://www.dachisgroup.com
 Plugin URI: http://headshift.github.com/wp-kuluvalley-embed
 Tags: video, kulu valley, kuluvalley, embed, video embed
