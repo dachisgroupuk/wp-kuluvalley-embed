@@ -3,11 +3,17 @@
 Author: Ross Tweedie
 
 Author URI: http://www.dachisgroup.com
+
 Plugin URI: http://headshift.github.com/wp-kuluvalley-embed
+
 Tags: video, kulu valley, kuluvalley, embed, video embed
+
 Requires at least: 3.0
+
 Tested up to: 3.4.2
+
 Stable tag: 1.0
+
 
 Allows for the embedding of video content from the Kulu Valley video platform
 
